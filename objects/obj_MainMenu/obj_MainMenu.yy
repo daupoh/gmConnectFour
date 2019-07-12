@@ -1,0 +1,72 @@
+{
+    "id": "c41ee4ef-499c-4d9c-af00-cb4a5fa6537e",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_MainMenu",
+    "eventList": [
+        
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "ed92d871-9c7d-47ca-82e9-06687e7c1e9f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "m_pNewGameButton",
+            "varType": 0
+        },
+        {
+            "id": "42906d51-4cd1-41e9-8931-33be4dfd9333",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "m_pExitButton",
+            "varType": 0
+        },
+        {
+            "id": "b5da41d9-2bb8-4e92-b20a-79109b7e426c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "m_pGameMaster",
+            "varType": 0
+        }
+    ],
+    "solid": false,
+    "spriteId": "9f4ea6f7-0430-4438-8fa1-67e2fc483675",
+    "visible": true
+}
