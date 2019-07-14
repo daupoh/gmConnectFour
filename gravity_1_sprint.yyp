@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "379cfc30-8474-4ed3-9e8c-d5461a417897",
+            "Value": {
+                "id": "a0f3e953-e85a-4351-9f61-4603bedaf23f",
+                "resourcePath": "views\\379cfc30-8474-4ed3-9e8c-d5461a417897.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3fac273d-8913-4e38-87f8-4672589b887b",
             "Value": {
                 "id": "edb72da3-40be-4f05-b611-9d53b7676eec",
@@ -383,6 +391,14 @@
             }
         },
         {
+            "Key": "917e59b7-8c04-454c-8889-6e448466ccf9",
+            "Value": {
+                "id": "8bbaacb6-1a14-446e-9fc9-3cc94f89fb0e",
+                "resourcePath": "scripts\\scrDev_StartNewGame\\scrDev_StartNewGame.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "92ff75fb-d80a-4981-b350-1bca72f91789",
             "Value": {
                 "id": "69236b0b-5199-4282-bf5e-8549e6686afd",
@@ -556,6 +572,14 @@
                 "id": "93bab807-5a8f-485e-a84a-22476e877a4f",
                 "resourcePath": "sprites\\spr_Wall\\spr_Wall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c2d01124-3f2d-4095-9355-dc6c60ca127a",
+            "Value": {
+                "id": "1f3fbe16-a72e-497c-a1f0-ad6207a8e3ce",
+                "resourcePath": "scripts\\scrGameControl_MainMenu\\scrGameControl_MainMenu.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -748,8 +772,10 @@
         "18cfc3d9-42ee-4ee2-9ad0-6279dc7a6898",
         "98182a1c-0d69-4350-bfd2-c627cf101396",
         "ee86dd04-f285-468b-aa79-baea5a20a933",
+        "c2d01124-3f2d-4095-9355-dc6c60ca127a",
         "1589dc9f-644f-410a-b92e-57b4e32befc8",
-        "1781e28d-aea9-4b0e-8740-d7a96493aff1"
+        "1781e28d-aea9-4b0e-8740-d7a96493aff1",
+        "917e59b7-8c04-454c-8889-6e448466ccf9"
     ],
     "tutorial": ""
 }
