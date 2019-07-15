@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "5457e56f-6cec-4808-baa2-f726967489ef",
+            "Value": {
+                "id": "e95b85f9-9c76-41e7-9d71-27231006a7d8",
+                "resourcePath": "scripts\\scrField_initialize\\scrField_initialize.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "56b9e356-fcdf-410e-98c9-d54f8485c91e",
             "Value": {
                 "id": "c6efdb09-183b-4198-80d9-54e0c7e2ebee",
@@ -460,6 +468,14 @@
                 "id": "fab36968-c9d9-482c-93b5-869b9b4f99c3",
                 "resourcePath": "scripts\\scrGameControl_Exit\\scrGameControl_Exit.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "981c3420-1141-4703-9248-18866b40d7f5",
+            "Value": {
+                "id": "840fd0e8-3f31-4a48-8a92-1537cd9205fd",
+                "resourcePath": "views\\981c3420-1141-4703-9248-18866b40d7f5.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -800,7 +816,8 @@
         "917e59b7-8c04-454c-8889-6e448466ccf9",
         "1781e28d-aea9-4b0e-8740-d7a96493aff1",
         "1589dc9f-644f-410a-b92e-57b4e32befc8",
-        "32166cc9-f767-46e3-a3db-569fc1575782"
+        "32166cc9-f767-46e3-a3db-569fc1575782",
+        "5457e56f-6cec-4808-baa2-f726967489ef"
     ],
     "tutorial": ""
 }
