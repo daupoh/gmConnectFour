@@ -34,7 +34,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "32",
-            "varName": "m_iGridCellSize",
+            "varName": "m_iSizeOfCell",
             "varType": 1
         },
         {
@@ -90,7 +90,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "m_mField",
+            "varName": "m_aField",
             "varType": 0
         },
         {
@@ -106,9 +106,37 @@
             "value": "0",
             "varName": "m_pGameMaster",
             "varType": 0
+        },
+        {
+            "id": "58b1d3c5-3a4c-455e-ab1c-337f563d11ce",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "-1",
+            "varName": "m_iClickedRowNumber",
+            "varType": 1
+        },
+        {
+            "id": "cdf97e37-21d6-431c-a7f0-0729a4cd977f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "-1",
+            "varName": "m_iClickedColumnNumber",
+            "varType": 1
         }
     ],
     "solid": false,
-    "spriteId": "bd15ca0b-35de-462e-92de-c3474bf71e9b",
-    "visible": false
+    "spriteId": "d2c9b7fc-80ca-4b93-aa07-00a7d41ac82e",
+    "visible": true
 }

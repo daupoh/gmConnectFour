@@ -5,13 +5,23 @@
     "name": "obj_GameMaster",
     "eventList": [
         {
-            "id": "9970d487-354d-4096-9d35-d529379f8aba",
+            "id": "cbafeb15-8371-497e-aa53-3bcd2171dbb8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "af085c07-1dcc-4e5f-b2fa-4ac6e2badb4b"
+        },
+        {
+            "id": "7f19c3dc-1558-4a94-bd64-a628bba5e572",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "af085c07-1dcc-4e5f-b2fa-4ac6e2badb4b"
         }
     ],
@@ -101,6 +111,20 @@
             "value": "0",
             "varName": "m_pMainMenu",
             "varType": 0
+        },
+        {
+            "id": "f9ea73ca-980d-4d83-a2a4-2f85347180e3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "m_bIsGameField",
+            "varType": 3
         }
     ],
     "solid": false,

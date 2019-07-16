@@ -1,8 +1,8 @@
 {
-    "id": "32166cc9-f767-46e3-a3db-569fc1575782",
+    "id": "97f675eb-4c4d-4e77-9065-643d09380b1a",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "scrGameMaster_initialize",
+    "name": "scrField_drawGrid",
     "IsCompatibility": false,
     "IsDnD": true
 }

@@ -159,14 +159,6 @@
             }
         },
         {
-            "Key": "32166cc9-f767-46e3-a3db-569fc1575782",
-            "Value": {
-                "id": "cd2b5e44-6f05-45e4-b0ab-8ea665c47a24",
-                "resourcePath": "scripts\\scrGameMaster_initialize\\scrGameMaster_initialize.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "37890325-f8e7-40a3-8e54-0f53559ff649",
             "Value": {
                 "id": "9c5ab0a9-72f0-4e05-a9fd-86559b0f2257",
@@ -215,10 +207,26 @@
             }
         },
         {
+            "Key": "47bfaf8a-78ea-4ff5-90b7-1c907032eec1",
+            "Value": {
+                "id": "8be21b97-2b20-45cb-a610-c2e3636a03a6",
+                "resourcePath": "scripts\\scrField_isClicked\\scrField_isClicked.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4c8ba9ba-dd70-4a7b-ae51-d750bd481588",
             "Value": {
                 "id": "6dda5aa3-790e-496e-9f30-276195db3520",
                 "resourcePath": "scripts\\scr_setCubeOnMap\\scr_setCubeOnMap.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "52d5ca22-b6b1-492d-9abe-e70a4b389909",
+            "Value": {
+                "id": "4d2ba884-3f14-4b49-a982-6a59e2a709fa",
+                "resourcePath": "scripts\\scrGameMaster_ShowGameField\\scrGameMaster_ShowGameField.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -463,10 +471,18 @@
             }
         },
         {
+            "Key": "97f675eb-4c4d-4e77-9065-643d09380b1a",
+            "Value": {
+                "id": "d66007f2-b6a6-4037-af0e-6946bf7308ce",
+                "resourcePath": "scripts\\scrField_drawGrid\\scrField_drawGrid.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "98182a1c-0d69-4350-bfd2-c627cf101396",
             "Value": {
                 "id": "fab36968-c9d9-482c-93b5-869b9b4f99c3",
-                "resourcePath": "scripts\\scrGameControl_Exit\\scrGameControl_Exit.yy",
+                "resourcePath": "scripts\\scrGameMaster_Exit\\scrGameMaster_Exit.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -516,14 +532,6 @@
                 "id": "6cfa07a0-cb47-4606-a01d-758ded9dbb56",
                 "resourcePath": "scripts\\scrRoom_GetWidth\\scrRoom_GetWidth.yy",
                 "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "aadbf6ae-095d-4bb2-86ca-1721ac081a3c",
-            "Value": {
-                "id": "127c1efb-bf64-4ba8-81e4-29338a6932fb",
-                "resourcePath": "views\\aadbf6ae-095d-4bb2-86ca-1721ac081a3c.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -618,7 +626,7 @@
             "Key": "c2d01124-3f2d-4095-9355-dc6c60ca127a",
             "Value": {
                 "id": "1f3fbe16-a72e-497c-a1f0-ad6207a8e3ce",
-                "resourcePath": "scripts\\scrGameControl_MainMenu\\scrGameControl_MainMenu.yy",
+                "resourcePath": "scripts\\scrGameMaster_MainMenu\\scrGameMaster_MainMenu.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -730,7 +738,7 @@
             "Key": "ee86dd04-f285-468b-aa79-baea5a20a933",
             "Value": {
                 "id": "80510e08-03f5-42f8-9da6-5ff9be67a971",
-                "resourcePath": "scripts\\scrGameControl_StartNewGame\\scrGameControl_StartNewGame.yy",
+                "resourcePath": "scripts\\scrGameMaster_StartNewGame\\scrGameMaster_StartNewGame.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -813,11 +821,13 @@
         "98182a1c-0d69-4350-bfd2-c627cf101396",
         "ee86dd04-f285-468b-aa79-baea5a20a933",
         "c2d01124-3f2d-4095-9355-dc6c60ca127a",
+        "52d5ca22-b6b1-492d-9abe-e70a4b389909",
         "917e59b7-8c04-454c-8889-6e448466ccf9",
         "1781e28d-aea9-4b0e-8740-d7a96493aff1",
         "1589dc9f-644f-410a-b92e-57b4e32befc8",
-        "32166cc9-f767-46e3-a3db-569fc1575782",
-        "5457e56f-6cec-4808-baa2-f726967489ef"
+        "5457e56f-6cec-4808-baa2-f726967489ef",
+        "97f675eb-4c4d-4e77-9065-643d09380b1a",
+        "47bfaf8a-78ea-4ff5-90b7-1c907032eec1"
     ],
     "tutorial": ""
 }

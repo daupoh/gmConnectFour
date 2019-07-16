@@ -1,8 +1,8 @@
 {
-    "id": "c2d01124-3f2d-4095-9355-dc6c60ca127a",
+    "id": "98182a1c-0d69-4350-bfd2-c627cf101396",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "scrGameControl_MainMenu",
+    "name": "scrGameMaster_Exit",
     "IsCompatibility": false,
     "IsDnD": true
 }

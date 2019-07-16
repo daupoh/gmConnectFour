@@ -1,8 +1,8 @@
 {
-    "id": "98182a1c-0d69-4350-bfd2-c627cf101396",
+    "id": "47bfaf8a-78ea-4ff5-90b7-1c907032eec1",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "scrGameControl_Exit",
+    "name": "scrField_isClicked",
     "IsCompatibility": false,
     "IsDnD": true
 }

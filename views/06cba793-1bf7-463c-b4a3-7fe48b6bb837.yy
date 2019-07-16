@@ -6,10 +6,11 @@
     "children": [
         "98182a1c-0d69-4350-bfd2-c627cf101396",
         "ee86dd04-f285-468b-aa79-baea5a20a933",
-        "c2d01124-3f2d-4095-9355-dc6c60ca127a"
+        "c2d01124-3f2d-4095-9355-dc6c60ca127a",
+        "52d5ca22-b6b1-492d-9abe-e70a4b389909"
     ],
     "filterType": "GMScript",
-    "folderName": "GameControl",
+    "folderName": "GameMaster",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
