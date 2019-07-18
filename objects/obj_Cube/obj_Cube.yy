@@ -90,20 +90,6 @@
             "varType": 1
         },
         {
-            "id": "a2b113d0-4894-4d5a-87ab-35de5bb56c21",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "m_pMap",
-            "varType": 0
-        },
-        {
             "id": "2eeb4c65-4272-414a-9b27-0add738ac448",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
